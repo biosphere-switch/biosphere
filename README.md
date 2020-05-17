@@ -1,2 +1,3 @@
 # biosphere
-Base components
+
+> TODO: write proper docs here (or in another repo?)
